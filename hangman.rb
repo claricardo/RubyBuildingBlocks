@@ -1,7 +1,8 @@
 # Hangman module
 # Contains classes that implement a Hangman game.
 #
-# NOTE: You must download hangman.rb and dictio_5desk.txt files and put them in the same directory.
+# NOTE: You must download 'dictio_5desk.txt' from http://scrapmaker.com/view/twelve-dicts/5desk.txt
+#       and put it in the same directory as the hangman.rb file
 #
 # Run from the command line:
 # ruby hangman.rb
