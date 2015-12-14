@@ -1,6 +1,8 @@
 # Hangman module
 # Contains classes that implement a Hangman game.
 #
+# NOTE: You must download hangman.rb and dictio_5desk.txt files and put them in the same directory.
+#
 # Run from the command line:
 # ruby hangman.rb
 #
