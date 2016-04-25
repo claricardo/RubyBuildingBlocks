@@ -197,6 +197,7 @@ module Mastermind
 	
 	def print_board(show_code = false)
 	  col_separator, row_separator, row_tab = '|', '------+--------+--------', '  '
+	  col_labels = (1..7).to_a
 	  
 	  label_for_guess = lambda do |elem|
         row_tab + elem.to_s + row_tab
