@@ -1,3 +1,13 @@
+# ConnectFour module
+# Contains classes that implement a Connect Four game.
+#
+# Usage from irb:
+# 1. $LOAD_PATH << "absolute_path_to_the_directory_containig_this_file"
+# 2. require 'connect_four.rb'
+# 3. include ConnectFour
+# 4. CFGame.new.play
+# 
+# Enjoy it!
 module ConnectFour
   
   # Represents a player info
